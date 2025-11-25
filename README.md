@@ -1,2 +1,2 @@
-# leadtime-pfn
-This is the research repository for the 'Prior-fitted Networks for Lead Time Forecasting' project.
+# Research Template
+This is the research repository for a dockerized environment on the DGX
