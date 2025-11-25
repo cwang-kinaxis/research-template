@@ -1,0 +1,12 @@
+jupyterlab
+notebook
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+tqdm
+pyyaml
+scikit-survival 
+autogluon[tabular]
+tabpfn
